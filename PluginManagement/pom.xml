@@ -6,7 +6,7 @@
 		<version>9</version>
 	</parent>
 	<groupId>ru.send-to.versionManagement</groupId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<artifactId>PluginManagement</artifactId>
 	<packaging>pom</packaging>
 	<name>PluginManagement</name>
@@ -158,7 +158,7 @@
 		<url>https://github.com/nleva/${project.artifactId}</url>
 		<connection>scm:git:https://github.com/nleva/${project.artifactId}.git</connection>
 		<developerConnection>scm:git:https://github.com/nleva/${project.artifactId}.git</developerConnection>
-		<tag>PluginManagement-0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 	
 	<developers>
