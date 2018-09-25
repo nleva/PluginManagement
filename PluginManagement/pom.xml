@@ -8,7 +8,7 @@
   </parent>
   <groupId>ru.send-to.versionManagement</groupId>
   <artifactId>PluginManagement</artifactId>
-  <version>0.5</version>
+  <version>0.6-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>PluginManagement</name>
   <url>http://github.com/nleva/${project.artifactId}</url>
@@ -30,7 +30,7 @@
   <scm>
     <connection>scm:git:https://github.com/nleva/${project.artifactId}.git</connection>
     <developerConnection>scm:git:https://github.com/nleva/${project.artifactId}.git</developerConnection>
-    <tag>PluginManagement-0.5</tag>
+    <tag>HEAD</tag>
     <url>https://github.com/nleva/${project.artifactId}</url>
   </scm>
   <properties>
